@@ -1,0 +1,62 @@
+[
+    {
+        "name": "student1",
+        "age": 17,
+        "gender": "Male",
+        "address": {
+            "address1": "Line1",
+            "address2": "Line2",
+            "city": "karimnagar",
+            "state": "Telangana"
+        },
+        "Hobbies": [
+            "playing cricket",
+            "listening to music"
+        ]
+    },
+    {
+        "name": "student2",
+        "age": 17,
+        "gender": "Female",
+        "address": {
+            "address1": "Line3",
+            "address2": "Line4",
+            "city": "warangal",
+            "state": "Telangana"
+        },
+        "Hobbies": [
+            "playing chess",
+            "watching movies"
+        ]
+    },
+    {
+        "name": "student3",
+        "age": 19,
+        "gender": "Male",
+        "address": {
+            "address1": "Line5",
+            "address2": "Line6",
+            "city": "Nizamabad",
+            "state": "Telangana"
+        },
+        "Hobbies": [
+            "reading books",
+            "Travelling"
+        ]
+    },
+    {
+        "name": "student4",
+        "age": 23,
+        "gender": "FeMale",
+        "address": {
+            "address1": "Line7",
+            "address2": "Line8",
+            "city": "   Adilabad",
+            "state": "Telangana"
+        },
+        "Hobbies": [
+            "playing carrom",
+            "dancing"
+        ]
+    }
+]
